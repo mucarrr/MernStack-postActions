@@ -1,4 +1,4 @@
-# 📍📍 A full-stack MERN application with basic authentication and CRUD actions.
+# 📍📍 A full-stack MERN application with basic authentication and CRUD actions
 
 Here's what I implemented:
 # 🔸 Frontend (React):
